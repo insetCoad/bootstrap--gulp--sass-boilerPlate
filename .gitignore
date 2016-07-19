@@ -1,11 +1,11 @@
 
-# Created by https://www.gitignore.io/api/s,sass,node,windows
+# Created by https://www.gitignore.io/api/bower,node,windows
 
-#!! ERROR: s is undefined. Use list command to see defined gitignore types !!#
-
-### Sass ###
-.sass-cache/
-*.css.map
+### Bower ###
+bower_components
+.bower-cache
+.bower-registry
+.bower-tmp
 
 
 ### Node ###
