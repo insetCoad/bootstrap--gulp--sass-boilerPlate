@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-seed",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "inset <insetlive@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/insetCoad/bootstrap--gulp--sass-boilerPlate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
